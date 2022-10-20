@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\PROMET\Desktop\StrukturePopravni\prviZad\prviZad\Source.c(87,26): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 3 has type 'double *'
+C:\Users\PROMET\Desktop\StrukturePopravni\prviZad\prviZad\Source.c(116,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+  prviZad.vcxproj -> C:\Users\PROMET\Desktop\StrukturePopravni\prviZad\Debug\prviZad.exe
