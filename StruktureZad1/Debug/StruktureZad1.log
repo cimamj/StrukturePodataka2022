@@ -1,0 +1,3 @@
+﻿  StruktureZad1.c
+C:\Users\tonim\source\repos\StruktureZad1\StruktureZad1.c(70,31): warning C4047: 'return': 'Student *' differs in levels of indirection from 'int'
+  StruktureZad1.vcxproj -> C:\Users\tonim\source\repos\StruktureZad1\Debug\StruktureZad1.exe
