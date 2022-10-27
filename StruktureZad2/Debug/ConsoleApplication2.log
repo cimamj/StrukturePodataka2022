@@ -1,0 +1,8 @@
+﻿  StruktureZad.c
+C:\Users\tonim\source\repos\ConsoleApplication2\StruktureZad.c(152,30): warning C4028: formal parameter 1 different from declaration
+C:\Users\tonim\source\repos\ConsoleApplication2\StruktureZad.c(152,39): warning C4028: formal parameter 2 different from declaration
+C:\Users\tonim\source\repos\ConsoleApplication2\StruktureZad.c(164,32): warning C4028: formal parameter 1 different from declaration
+C:\Users\tonim\source\repos\ConsoleApplication2\StruktureZad.c(164,41): warning C4028: formal parameter 2 different from declaration
+C:\Users\tonim\source\repos\ConsoleApplication2\StruktureZad.c(177,27): warning C4028: formal parameter 1 different from declaration
+C:\Users\tonim\source\repos\ConsoleApplication2\StruktureZad.c(177,36): warning C4028: formal parameter 2 different from declaration
+  ConsoleApplication2.vcxproj -> C:\Users\tonim\source\repos\ConsoleApplication2\Debug\StruktureZad2.exe
