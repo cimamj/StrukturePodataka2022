@@ -1,0 +1,5 @@
+﻿  zadSedmii.c
+C:\Users\PROMET\Desktop\StrukturePopravni\sedmiZad\sedmiZad\zadSedmii.c(46,8): warning C4013: 'stcrpy' undefined; assuming extern returning int
+C:\Users\PROMET\Desktop\StrukturePopravni\sedmiZad\sedmiZad\zadSedmii.c(85,16): warning C4013: 'Pop' undefined; assuming extern returning int
+C:\Users\PROMET\Desktop\StrukturePopravni\sedmiZad\sedmiZad\zadSedmii.c(85,22): warning C4047: '=': 'Dir *' differs in levels of indirection from 'int'
+C:\Users\PROMET\Desktop\StrukturePopravni\sedmiZad\sedmiZad\zadSedmii.c(97,1): error C2075: 'ime': initialization requires a brace-enclosed initializer list
